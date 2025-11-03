@@ -1,0 +1,13 @@
+Cache/
+screenshots/
+LogFiles/
+*.tmp
+*.log
+.DS_Store
+.vscode/
+matchhistory/
+mods/
+network/
+playback/
+Users/
+*.bin

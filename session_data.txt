@@ -1,0 +1,8 @@
+sessionGUID = {4009ae1d-2a97-4201-8e1b-fbbc806bbd8e}
+version = 15.1.6970.0
+configuration = rtm
+depot = cardinal
+stream = release_15_1_0
+launchParameters = -vulkan -nomovies
+unsupportedReasons = 
+module = Quit
