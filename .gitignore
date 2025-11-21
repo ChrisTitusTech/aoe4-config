@@ -12,3 +12,5 @@ playback/
 Users/
 *.bin
 configuration_system.lua
+local.ini
+session_data.txt
