@@ -11,3 +11,4 @@ network/
 playback/
 Users/
 *.bin
+configuration_system.lua
