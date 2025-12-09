@@ -25,19 +25,12 @@ profile =
 			},
 			 
 			{
-				command = "screen_pan_down",
-				keycombos =  
-				{
-				},
-			},
-			 
-			{
-				command = "save_camera_location_1",
+				command = "save_camera_location_4",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+F1",
+						combo = "Control+F4",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -51,18 +44,18 @@ profile =
 			},
 			 
 			{
-				command = "pan_left",
+				command = "pan_right",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Left",
+						combo = "Right",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Alt+A",
+						combo = "Alt+D",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -70,12 +63,12 @@ profile =
 			},
 			 
 			{
-				command = "save_camera_location_4",
+				command = "rotate_cw_45",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+F4",
+						combo = "RBracket",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -108,6 +101,115 @@ profile =
 			},
 			 
 			{
+				command = "screen_pan_left",
+				keycombos =  
+				{
+				},
+			},
+			 
+			{
+				command = "pan_down",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Down",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Alt+S",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "apply_camera_location_7",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+F7",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pan_left",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Left",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Alt+A",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "default",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Backspace",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "screen_pan_down",
+				keycombos =  
+				{
+				},
+			},
+			 
+			{
+				command = "save_camera_location_1",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+F1",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
 				command = "apply_camera_location_5",
 				keycombos =  
 				{
@@ -127,12 +229,31 @@ profile =
 			},
 			 
 			{
-				command = "save_camera_location_7",
+				command = "apply_camera_location_4",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+F7",
+						combo = "Shift+F4",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "apply_camera_location_3",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+F3",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -152,25 +273,6 @@ profile =
 					 
 					{
 						combo = "Control+F8",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "orbit",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -222,152 +324,12 @@ profile =
 			},
 			 
 			{
-				command = "save_camera_location_6",
+				command = "zoom_out",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+F6",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "apply_camera_location_3",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+F3",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pan_right",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Right",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Alt+D",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "apply_camera_location_4",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+F4",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "save_camera_location_5",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+F5",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "apply_camera_location_7",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+F7",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "screen_pan_right",
-				keycombos =  
-				{
-				},
-			},
-			 
-			{
-				command = "rotate_cw_45",
-				keycombos =  
-				{
-					 
-					{
-						combo = "RBracket",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "save_camera_location_3",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+F3",
+						combo = "MouseWheelDown",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -400,69 +362,12 @@ profile =
 			},
 			 
 			{
-				command = "pan_down",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Down",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Alt+S",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "rotate_ccw_45",
-				keycombos =  
-				{
-					 
-					{
-						combo = "LBracket",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
 				command = "zoom_in",
 				keycombos =  
 				{
 					 
 					{
 						combo = "MouseWheelUp",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "default",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Backspace",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -495,9 +400,104 @@ profile =
 			},
 			 
 			{
-				command = "screen_pan_up",
+				command = "save_camera_location_5",
 				keycombos =  
 				{
+					 
+					{
+						combo = "Control+F5",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "screen_pan_right",
+				keycombos =  
+				{
+				},
+			},
+			 
+			{
+				command = "rotate_ccw_45",
+				keycombos =  
+				{
+					 
+					{
+						combo = "LBracket",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "orbit",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "save_camera_location_3",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+F3",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "save_camera_location_7",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+F7",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
 				},
 			},
 			 
@@ -521,12 +521,19 @@ profile =
 			},
 			 
 			{
-				command = "zoom_out",
+				command = "screen_pan_up",
+				keycombos =  
+				{
+				},
+			},
+			 
+			{
+				command = "save_camera_location_6",
 				keycombos =  
 				{
 					 
 					{
-						combo = "MouseWheelDown",
+						combo = "Control+F6",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -538,68 +545,42 @@ profile =
 					},
 				},
 			},
-			 
-			{
-				command = "screen_pan_left",
-				keycombos =  
-				{
-				},
-			},
 		},
 		hud_control_groups =  
 		{
 			 
 			{
-				command = "hkgroup_focus9",
+				command = "hkgroup_set5",
 				keycombos =  
 				{
 					 
 					{
-						combo = "9",
-						event = "Press",
-						repeatCount = 1,
-					},
-					 
-					{
-						combo = "Numpad9",
-						event = "Press",
-						repeatCount = 1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_focus4",
-				keycombos =  
-				{
-					 
-					{
-						combo = "4",
-						event = "Press",
-						repeatCount = 1,
-					},
-					 
-					{
-						combo = "Numpad4",
-						event = "Press",
-						repeatCount = 1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_remove0",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Alt+0",
+						combo = "Control+5",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Control+Alt+Numpad0",
+						combo = "Control+Numpad5",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_select0",
+				keycombos =  
+				{
+					 
+					{
+						combo = "0",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Numpad0",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -626,56 +607,18 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_add9",
+				command = "hkgroup_focus7",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Shift+9",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Shift+Numpad9",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_select5",
-				keycombos =  
-				{
-					 
-					{
-						combo = "5",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Numpad5",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_focus5",
-				keycombos =  
-				{
-					 
-					{
-						combo = "5",
+						combo = "7",
 						event = "Press",
 						repeatCount = 1,
 					},
 					 
 					{
-						combo = "Numpad5",
+						combo = "Numpad7",
 						event = "Press",
 						repeatCount = 1,
 					},
@@ -683,18 +626,18 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_set2",
+				command = "hkgroup_set8",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+2",
+						combo = "Control+8",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Control+Numpad2",
+						combo = "Control+Numpad8",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -702,37 +645,113 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_focus2",
+				command = "hkgroup_set0",
 				keycombos =  
 				{
 					 
 					{
-						combo = "2",
+						combo = "Control+0",
 						event = "Press",
-						repeatCount = 1,
+						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Numpad2",
+						combo = "Control+Numpad0",
 						event = "Press",
-						repeatCount = 1,
+						repeatCount = -1,
 					},
 				},
 			},
 			 
 			{
-				command = "hkgroup_select3",
+				command = "hkgroup_select7",
+				keycombos =  
+				{
+					 
+					{
+						combo = "7",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Numpad7",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_remove9",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Alt+9",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Control+Alt+Numpad9",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_set9",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+9",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Control+Numpad9",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_focus3",
 				keycombos =  
 				{
 					 
 					{
 						combo = "3",
 						event = "Press",
-						repeatCount = -1,
+						repeatCount = 1,
 					},
 					 
 					{
 						combo = "Numpad3",
+						event = "Press",
+						repeatCount = 1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_select9",
+				keycombos =  
+				{
+					 
+					{
+						combo = "9",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Numpad9",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -740,18 +759,18 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_focus0",
+				command = "hkgroup_focus9",
 				keycombos =  
 				{
 					 
 					{
-						combo = "0",
+						combo = "9",
 						event = "Press",
 						repeatCount = 1,
 					},
 					 
 					{
-						combo = "Numpad0",
+						combo = "Numpad9",
 						event = "Press",
 						repeatCount = 1,
 					},
@@ -778,18 +797,18 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_remove9",
+				command = "hkgroup_select3",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+Alt+9",
+						combo = "3",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Control+Alt+Numpad9",
+						combo = "Numpad3",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -797,18 +816,18 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_remove3",
+				command = "hkgroup_select8",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+Alt+3",
+						combo = "8",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Control+Alt+Numpad3",
+						combo = "Numpad8",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -816,58 +835,134 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_focus6",
+				command = "hkgroup_focus2",
+				keycombos =  
+				{
+					 
+					{
+						combo = "2",
+						event = "Press",
+						repeatCount = 1,
+					},
+					 
+					{
+						combo = "Numpad2",
+						event = "Press",
+						repeatCount = 1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_select4",
+				keycombos =  
+				{
+					 
+					{
+						combo = "4",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Numpad4",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_set6",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+6",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Control+Numpad6",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_add9",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+9",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Shift+Numpad9",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_remove8",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Alt+8",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Control+Alt+Numpad8",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_select6",
 				keycombos =  
 				{
 					 
 					{
 						combo = "6",
 						event = "Press",
-						repeatCount = 1,
+						repeatCount = -1,
 					},
 					 
 					{
 						combo = "Numpad6",
 						event = "Press",
-						repeatCount = 1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_select0",
-				keycombos =  
-				{
-					 
-					{
-						combo = "0",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Numpad0",
-						event = "Press",
 						repeatCount = -1,
 					},
 				},
 			},
 			 
 			{
-				command = "hkgroup_focus7",
+				command = "hkgroup_select5",
 				keycombos =  
 				{
 					 
 					{
-						combo = "7",
+						combo = "5",
 						event = "Press",
-						repeatCount = 1,
+						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Numpad7",
+						combo = "Numpad5",
 						event = "Press",
-						repeatCount = 1,
+						repeatCount = -1,
 					},
 				},
 			},
@@ -911,158 +1006,6 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_focus1",
-				keycombos =  
-				{
-					 
-					{
-						combo = "1",
-						event = "Press",
-						repeatCount = 1,
-					},
-					 
-					{
-						combo = "Numpad1",
-						event = "Press",
-						repeatCount = 1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_remove8",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Alt+8",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Control+Alt+Numpad8",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_select2",
-				keycombos =  
-				{
-					 
-					{
-						combo = "2",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Numpad2",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_remove5",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Alt+5",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Control+Alt+Numpad5",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_add3",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+3",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Shift+Numpad3",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_select9",
-				keycombos =  
-				{
-					 
-					{
-						combo = "9",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Numpad9",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_add7",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+7",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Shift+Numpad7",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_select1",
-				keycombos =  
-				{
-					 
-					{
-						combo = "1",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Numpad1",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
 				command = "hkgroup_remove1",
 				keycombos =  
 				{
@@ -1082,37 +1025,18 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_remove_all",
+				command = "hkgroup_remove4",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+Backspace",
+						combo = "Control+Alt+4",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_set0",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+0",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Control+Numpad0",
+						combo = "Control+Alt+Numpad4",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -1139,18 +1063,18 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_select6",
+				command = "hkgroup_remove3",
 				keycombos =  
 				{
 					 
 					{
-						combo = "6",
+						combo = "Control+Alt+3",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Numpad6",
+						combo = "Control+Alt+Numpad3",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -1177,18 +1101,18 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_add0",
+				command = "hkgroup_remove5",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Shift+0",
+						combo = "Control+Alt+5",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Shift+Numpad0",
+						combo = "Control+Alt+Numpad5",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -1196,151 +1120,37 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_set7",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+7",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Control+Numpad7",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_select4",
+				command = "hkgroup_focus4",
 				keycombos =  
 				{
 					 
 					{
 						combo = "4",
 						event = "Press",
-						repeatCount = -1,
+						repeatCount = 1,
 					},
 					 
 					{
 						combo = "Numpad4",
 						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_set5",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+5",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Control+Numpad5",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_add2",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+2",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Shift+Numpad2",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_add1",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+1",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Shift+Numpad1",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_select7",
-				keycombos =  
-				{
-					 
-					{
-						combo = "7",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Numpad7",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_focus3",
-				keycombos =  
-				{
-					 
-					{
-						combo = "3",
-						event = "Press",
-						repeatCount = 1,
-					},
-					 
-					{
-						combo = "Numpad3",
-						event = "Press",
 						repeatCount = 1,
 					},
 				},
 			},
 			 
 			{
-				command = "hkgroup_remove4",
+				command = "hkgroup_add4",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+Alt+4",
+						combo = "Shift+4",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Control+Alt+Numpad4",
+						combo = "Shift+Numpad4",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -1348,132 +1158,18 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_set9",
+				command = "hkgroup_remove_all",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+9",
+						combo = "Control+Backspace",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Control+Numpad9",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_add6",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+6",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Shift+Numpad6",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_add5",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+5",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Shift+Numpad5",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_set8",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+8",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Control+Numpad8",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_set3",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+3",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Control+Numpad3",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_select8",
-				keycombos =  
-				{
-					 
-					{
-						combo = "8",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Numpad8",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_set6",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+6",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Control+Numpad6",
+						combo = "",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -1500,26 +1196,375 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_add4",
+				command = "hkgroup_add6",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Shift+4",
+						combo = "Shift+6",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Shift+Numpad4",
+						combo = "Shift+Numpad6",
 						event = "Press",
 						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_add7",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+7",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Shift+Numpad7",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_select2",
+				keycombos =  
+				{
+					 
+					{
+						combo = "2",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Numpad2",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_add5",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+5",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Shift+Numpad5",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_add1",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+1",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Shift+Numpad1",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_remove0",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Alt+0",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Control+Alt+Numpad0",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_add3",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+3",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Shift+Numpad3",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_add2",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+2",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Shift+Numpad2",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_add0",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+0",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Shift+Numpad0",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_set3",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+3",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Control+Numpad3",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_set7",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+7",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Control+Numpad7",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_set2",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+2",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Control+Numpad2",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_focus5",
+				keycombos =  
+				{
+					 
+					{
+						combo = "5",
+						event = "Press",
+						repeatCount = 1,
+					},
+					 
+					{
+						combo = "Numpad5",
+						event = "Press",
+						repeatCount = 1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_focus6",
+				keycombos =  
+				{
+					 
+					{
+						combo = "6",
+						event = "Press",
+						repeatCount = 1,
+					},
+					 
+					{
+						combo = "Numpad6",
+						event = "Press",
+						repeatCount = 1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_select1",
+				keycombos =  
+				{
+					 
+					{
+						combo = "1",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Numpad1",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_focus1",
+				keycombos =  
+				{
+					 
+					{
+						combo = "1",
+						event = "Press",
+						repeatCount = 1,
+					},
+					 
+					{
+						combo = "Numpad1",
+						event = "Press",
+						repeatCount = 1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_focus0",
+				keycombos =  
+				{
+					 
+					{
+						combo = "0",
+						event = "Press",
+						repeatCount = 1,
+					},
+					 
+					{
+						combo = "Numpad0",
+						event = "Press",
+						repeatCount = 1,
 					},
 				},
 			},
 		},
 		hud_dynamic_classic =  
 		{
+			 
+			{
+				command = "tab",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Tab",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "enter",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Enter",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "toggle_self_mute",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
 			 
 			{
 				command = "down",
@@ -1573,6 +1618,25 @@ profile =
 			},
 			 
 			{
+				command = "ping_attack",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+R",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
 				command = "ping_defend",
 				keycombos =  
 				{
@@ -1585,57 +1649,6 @@ profile =
 					 
 					{
 						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "push_to_talk",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "enter",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Enter",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "text_to_speech_chat",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Enter",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Minus",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -1662,63 +1675,18 @@ profile =
 			},
 			 
 			{
-				command = "up",
+				command = "text_to_speech_chat",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Up",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "tab",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Tab",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "toggle_self_mute",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
+						combo = "Control+Enter",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "ping_attack",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+R",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
+						combo = "Minus",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -1743,17 +1711,88 @@ profile =
 					},
 				},
 			},
+			 
+			{
+				command = "up",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Up",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "push_to_talk",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
 		},
 		hud_dynamic_modern =  
 		{
 			 
 			{
-				command = "command_card_row03_column05",
+				command = "command_card_row01_column05",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Delete",
+						combo = "T",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "modal_card_row01_column02",
+				keycombos =  
+				{
+					 
+					{
+						combo = "W",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "command_card_row01_column04",
+				keycombos =  
+				{
+					 
+					{
+						combo = "R",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "command_card_row02_column03",
+				keycombos =  
+				{
+					 
+					{
+						combo = "D",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -1774,12 +1813,12 @@ profile =
 			},
 			 
 			{
-				command = "command_card_row02_column04",
+				command = "command_card_row01_column03",
 				keycombos =  
 				{
 					 
 					{
-						combo = "F",
+						combo = "E",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -1787,12 +1826,12 @@ profile =
 			},
 			 
 			{
-				command = "command_card_row01_column05",
+				command = "command_card_row03_column02",
 				keycombos =  
 				{
 					 
 					{
-						combo = "T",
+						combo = "X",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -1800,12 +1839,12 @@ profile =
 			},
 			 
 			{
-				command = "command_card_row02_column03",
+				command = "command_card_row03_column04",
 				keycombos =  
 				{
 					 
 					{
-						combo = "D",
+						combo = "V",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -1839,116 +1878,12 @@ profile =
 			},
 			 
 			{
-				command = "command_card_row02_column01",
-				keycombos =  
-				{
-					 
-					{
-						combo = "A",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "command_card_row02_column05",
-				keycombos =  
-				{
-					 
-					{
-						combo = "G",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
 				command = "modal_card_row01_column01",
 				keycombos =  
 				{
 					 
 					{
 						combo = "Q",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "command_card_row03_column03",
-				keycombos =  
-				{
-					 
-					{
-						combo = "C",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "command_card_row01_column04",
-				keycombos =  
-				{
-					 
-					{
-						combo = "R",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "command_card_row01_column01",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Q",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "command_card_row03_column04",
-				keycombos =  
-				{
-					 
-					{
-						combo = "V",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "command_card_row03_column01",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Z",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "modal_card_row01_column02",
-				keycombos =  
-				{
-					 
-					{
-						combo = "W",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -1969,12 +1904,12 @@ profile =
 			},
 			 
 			{
-				command = "command_card_row01_column03",
+				command = "modal_card_row01_column05",
 				keycombos =  
 				{
 					 
 					{
-						combo = "E",
+						combo = "T",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -1982,12 +1917,51 @@ profile =
 			},
 			 
 			{
-				command = "modal_card_row01_column05",
+				command = "command_card_row03_column03",
 				keycombos =  
 				{
 					 
 					{
-						combo = "T",
+						combo = "C",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "command_card_row02_column04",
+				keycombos =  
+				{
+					 
+					{
+						combo = "F",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "command_card_row01_column01",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Q",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "command_card_row03_column05",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Delete",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -2008,12 +1982,38 @@ profile =
 			},
 			 
 			{
-				command = "command_card_row03_column02",
+				command = "command_card_row03_column01",
 				keycombos =  
 				{
 					 
 					{
-						combo = "X",
+						combo = "Z",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "command_card_row02_column05",
+				keycombos =  
+				{
+					 
+					{
+						combo = "G",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "command_card_row02_column01",
+				keycombos =  
+				{
+					 
+					{
+						combo = "A",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -2022,44 +2022,6 @@ profile =
 		},
 		hud_game =  
 		{
-			 
-			{
-				command = "toggle_diplomacy_panel",
-				keycombos =  
-				{
-					 
-					{
-						combo = "F6",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "toggle_time_display",
-				keycombos =  
-				{
-					 
-					{
-						combo = "F11",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
 			 
 			{
 				command = "global_ability_5",
@@ -2100,69 +2062,12 @@ profile =
 			},
 			 
 			{
-				command = "global_ability_6",
+				command = "toggle_time_display",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Alt+6",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "focus_event_cue",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Space",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "quick_load",
-				keycombos =  
-				{
-					 
-					{
-						combo = "F9",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "access_secondary_ui_panel",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Y",
+						combo = "F11",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -2195,127 +2100,13 @@ profile =
 			},
 			 
 			{
-				command = "cancel_last_production_item",
+				command = "focus_event_cue",
 				keycombos =  
 				{
 					 
 					{
-						combo = "B",
+						combo = "Space",
 						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "global_ability_2",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Alt+2",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "exit_current_inline_menu",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "cycle_global_queue",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "global_ability_3",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Alt+3",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "toggle_team_colours",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Insert",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "minimap_cycle_zoom_level",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "",
 						repeatCount = -1,
 					},
 					 
@@ -2334,25 +2125,6 @@ profile =
 					 
 					{
 						combo = "Alt+4",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pause_menu",
-				keycombos =  
-				{
-					 
-					{
-						combo = "F10",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -2385,12 +2157,240 @@ profile =
 			},
 			 
 			{
+				command = "quick_load",
+				keycombos =  
+				{
+					 
+					{
+						combo = "F9",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pause_menu",
+				keycombos =  
+				{
+					 
+					{
+						combo = "F10",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "global_ability_3",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Alt+3",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "exit_current_inline_menu",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "global_ability_6",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Alt+6",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "toggle_team_colours",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Insert",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "access_secondary_ui_panel",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Y",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "cycle_global_queue",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "global_ability_2",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Alt+2",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "toggle_diplomacy_panel",
+				keycombos =  
+				{
+					 
+					{
+						combo = "F6",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
 				command = "quick_save",
 				keycombos =  
 				{
 					 
 					{
 						combo = "F8",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "cancel_last_production_item",
+				keycombos =  
+				{
+					 
+					{
+						combo = "B",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "minimap_cycle_zoom_level",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -2436,50 +2436,12 @@ profile =
 		{
 			 
 			{
-				command = "toggle_focus_statistics",
+				command = "slower",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Shift+Alt+S",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "toggle_fow",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+F",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "toggle_ui",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+U",
+						combo = "Minus",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -2512,63 +2474,6 @@ profile =
 			},
 			 
 			{
-				command = "next_player",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+RBracket",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "flip_sides",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+Alt+F",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "previous_player",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+LBracket",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
 				command = "toggle_camera",
 				keycombos =  
 				{
@@ -2588,12 +2493,31 @@ profile =
 			},
 			 
 			{
-				command = "select_player_1",
+				command = "next_player",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Shift+Alt+1",
+						combo = "Control+RBracket",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "toggle_focus_statistics",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+Alt+S",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -2626,12 +2550,88 @@ profile =
 			},
 			 
 			{
-				command = "slower",
+				command = "previous_player",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Minus",
+						combo = "Control+LBracket",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "toggle_ui",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+U",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "flip_sides",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+Alt+F",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "select_player_1",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+Alt+1",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "toggle_fow",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+F",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -2648,12 +2648,12 @@ profile =
 		{
 			 
 			{
-				command = "pick_next_food_gatherer",
+				command = "pick_all_cavalry_on_screen",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+Shift+F",
+						combo = "",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -2667,12 +2667,12 @@ profile =
 			},
 			 
 			{
-				command = "pick_next_idle_military",
+				command = "select_all_special",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Comma",
+						combo = "",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -2686,64 +2686,7 @@ profile =
 			},
 			 
 			{
-				command = "pick_next_scout",
-				keycombos =  
-				{
-					 
-					{
-						combo = "5",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_gold_gatherer",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Shift+G",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_idle_worker",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Grave",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_idle_scout",
+				command = "pick_all_trade_ships",
 				keycombos =  
 				{
 					 
@@ -2781,126 +2724,12 @@ profile =
 			},
 			 
 			{
-				command = "pick_all_of_current_types",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+A",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_trade_ships",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_siege_on_screen",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "select_all",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_idle_villagers_in_radius",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Alt+Grave",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
 				command = "escape",
 				keycombos =  
 				{
 					 
 					{
 						combo = "Escape",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_wood_gatherer",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Shift+W",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -2927,31 +2756,12 @@ profile =
 			},
 			 
 			{
-				command = "pick_all_archers",
+				command = "pick_next_wood_gatherer",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+V",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "2",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "select_all_special",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
+						combo = "Control+Shift+W",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -2965,7 +2775,7 @@ profile =
 			},
 			 
 			{
-				command = "pick_all_siege",
+				command = "select_all",
 				keycombos =  
 				{
 					 
@@ -2976,7 +2786,26 @@ profile =
 					},
 					 
 					{
-						combo = "4",
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_idle_scout",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -2985,386 +2814,6 @@ profile =
 			 
 			{
 				command = "pick_all_shinobi",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_military",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Shift+Alt+Z",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_workers_on_screen",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_idle_naval_military",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_infantry",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+X",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "1",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_shinobi",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "follow_selected",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Home",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "subselect_previous",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Tab",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_monk",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Apostrophe",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_cavalry_on_screen",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_military_on_screen",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Shift+Z",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_monks",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_archers_on_screen",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_officials",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_idle_military",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Z",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_hero",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_naval_military",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Shift+D",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_cavalry",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+C",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "3",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_infantry_on_screen",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "focus_selected",
-				keycombos =  
-				{
-					 
-					{
-						combo = "F5",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "MouseX1",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_idle_naval_military",
 				keycombos =  
 				{
 					 
@@ -3402,7 +2851,26 @@ profile =
 			},
 			 
 			{
-				command = "pick_next_official",
+				command = "follow_selected",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Home",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_yatai",
 				keycombos =  
 				{
 					 
@@ -3421,12 +2889,69 @@ profile =
 			},
 			 
 			{
-				command = "pick_next_idle_monk",
+				command = "pick_all_idle_villagers_in_radius",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Shift+Grave",
+						combo = "Alt+Grave",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_idle_military",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Comma",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_of_current_types",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+A",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_food_gatherer",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Shift+F",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -3459,7 +2984,539 @@ profile =
 			},
 			 
 			{
+				command = "pick_next_official",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_idle_monk",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_officials",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_siege_on_screen",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_military_on_screen",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Shift+Z",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_gold_gatherer",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Shift+G",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_worker_elephant",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_hero",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_monks",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_infantry",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+X",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "1",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_archers",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+V",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "2",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_yatai",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_siege",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "4",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_monk",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+Grave",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_naval_military",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Shift+D",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
 				command = "pick_all_traders",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_scout",
+				keycombos =  
+				{
+					 
+					{
+						combo = "5",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_archers_on_screen",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "focus_selected",
+				keycombos =  
+				{
+					 
+					{
+						combo = "F5",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "MouseX1",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_workers_on_screen",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_infantry_on_screen",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_idle_worker",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Grave",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_idle_naval_military",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_idle_naval_military",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_idle_military",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Z",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_military",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Shift+Alt+Z",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "subselect_previous",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Tab",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_cavalry",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+C",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "3",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_shinobi",
 				keycombos =  
 				{
 					 
@@ -3481,26 +3538,7 @@ profile =
 		{
 			 
 			{
-				command = "pick_all_monastery",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+M",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_barracks",
+				command = "pick_next_university",
 				keycombos =  
 				{
 					 
@@ -3519,482 +3557,7 @@ profile =
 			},
 			 
 			{
-				command = "pick_all_mining_camp",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_pasture",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_manor",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+M",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_keep",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_merc_house",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_packed_building",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_archery_range",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_village",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_military_school",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_university",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_ovoo",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_stables",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+C",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_granary",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_monastery",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_pasture",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_stables",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_mill",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_mill",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_lumber_yard",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_ovoo",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_lumber_yard",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_siege_workshop",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+S",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_siege_workshop",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_military_buildings",
-				keycombos =  
-				{
-					 
-					{
-						combo = "F1",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_military_school",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_pagoda",
+				command = "pick_all_keep",
 				keycombos =  
 				{
 					 
@@ -4032,83 +3595,7 @@ profile =
 			},
 			 
 			{
-				command = "pick_all_cistern",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_packed_building",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_blacksmith",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_stone_wall_tower",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_manor",
+				command = "pick_all_daimyo_estates",
 				keycombos =  
 				{
 					 
@@ -4146,292 +3633,7 @@ profile =
 			},
 			 
 			{
-				command = "pick_all_special_buildings",
-				keycombos =  
-				{
-					 
-					{
-						combo = "F4",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_outpost",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_economy_buildings",
-				keycombos =  
-				{
-					 
-					{
-						combo = "F2",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_village",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_dock",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_ger",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_ger",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_pagoda",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_university",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_stone_wall_tower",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_archery_range",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+V",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_barracks",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+X",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_landmark",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
 				command = "select_all_town_centers",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_granary",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_merc_house",
 				keycombos =  
 				{
 					 
@@ -4469,7 +3671,425 @@ profile =
 			},
 			 
 			{
-				command = "pick_next_outpost",
+				command = "pick_next_military_school",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_granary",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_manor",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+M",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_merc_house",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "select_focus_capital",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+H",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_monastery",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_mill",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_siege_workshop",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_cistern",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_barracks",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_ger",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_barracks",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+X",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_village",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_archery_range",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_pagoda",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_town",
+				keycombos =  
+				{
+					 
+					{
+						combo = "H",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "MouseX2",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_military_buildings",
+				keycombos =  
+				{
+					 
+					{
+						combo = "F1",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_daimyo_estate",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_village",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_stables",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+C",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_packed_building",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_stone_wall_tower",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_lumber_yard",
 				keycombos =  
 				{
 					 
@@ -4507,7 +4127,539 @@ profile =
 			},
 			 
 			{
-				command = "pick_all_keep",
+				command = "pick_next_packed_building",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_pasture",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_manor",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_pagoda",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_archery_range",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+V",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_ger",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_dock",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_mining_camp",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_economy_buildings",
+				keycombos =  
+				{
+					 
+					{
+						combo = "F2",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_pasture",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_mill",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_university",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_blacksmith",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_monastery",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+M",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_special_buildings",
+				keycombos =  
+				{
+					 
+					{
+						combo = "F4",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_siege_workshop",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+S",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_keep",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_outpost",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_merc_house",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_stables",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_granary",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_lumber_yard",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_ovoo",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_ovoo",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_stone_wall_tower",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_outpost",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_military_school",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_mining_camp",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_landmark",
 				keycombos =  
 				{
 					 
@@ -4557,63 +4709,6 @@ profile =
 					 
 					{
 						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "select_focus_capital",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+H",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_mining_camp",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_town",
-				keycombos =  
-				{
-					 
-					{
-						combo = "H",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "MouseX2",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -9561,19 +9656,12 @@ profile =
 			},
 			 
 			{
-				command = "screen_pan_down",
-				keycombos =  
-				{
-				},
-			},
-			 
-			{
-				command = "save_camera_location_1",
+				command = "save_camera_location_4",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+F1",
+						combo = "Control+F4",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -9587,18 +9675,18 @@ profile =
 			},
 			 
 			{
-				command = "pan_left",
+				command = "pan_right",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Left",
+						combo = "Right",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Alt+A",
+						combo = "Alt+D",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -9606,12 +9694,12 @@ profile =
 			},
 			 
 			{
-				command = "save_camera_location_4",
+				command = "rotate_cw_45",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+F4",
+						combo = "RBracket",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -9644,6 +9732,115 @@ profile =
 			},
 			 
 			{
+				command = "screen_pan_left",
+				keycombos =  
+				{
+				},
+			},
+			 
+			{
+				command = "pan_down",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Down",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Alt+S",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "apply_camera_location_7",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+F7",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pan_left",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Left",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Alt+A",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "default",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Backspace",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "screen_pan_down",
+				keycombos =  
+				{
+				},
+			},
+			 
+			{
+				command = "save_camera_location_1",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+F1",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
 				command = "apply_camera_location_5",
 				keycombos =  
 				{
@@ -9663,12 +9860,31 @@ profile =
 			},
 			 
 			{
-				command = "save_camera_location_7",
+				command = "apply_camera_location_4",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+F7",
+						combo = "Shift+F4",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "apply_camera_location_3",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+F3",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -9688,25 +9904,6 @@ profile =
 					 
 					{
 						combo = "Control+F8",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "orbit",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Alt",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -9758,152 +9955,12 @@ profile =
 			},
 			 
 			{
-				command = "save_camera_location_6",
+				command = "zoom_out",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+F6",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "apply_camera_location_3",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+F3",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pan_right",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Right",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Alt+D",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "apply_camera_location_4",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+F4",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "save_camera_location_5",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+F5",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "apply_camera_location_7",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+F7",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "screen_pan_right",
-				keycombos =  
-				{
-				},
-			},
-			 
-			{
-				command = "rotate_cw_45",
-				keycombos =  
-				{
-					 
-					{
-						combo = "RBracket",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "save_camera_location_3",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+F3",
+						combo = "MouseWheelDown",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -9936,69 +9993,12 @@ profile =
 			},
 			 
 			{
-				command = "pan_down",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Down",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Alt+S",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "rotate_ccw_45",
-				keycombos =  
-				{
-					 
-					{
-						combo = "LBracket",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
 				command = "zoom_in",
 				keycombos =  
 				{
 					 
 					{
 						combo = "MouseWheelUp",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "default",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Backspace",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -10031,9 +10031,104 @@ profile =
 			},
 			 
 			{
-				command = "screen_pan_up",
+				command = "save_camera_location_5",
 				keycombos =  
 				{
+					 
+					{
+						combo = "Control+F5",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "screen_pan_right",
+				keycombos =  
+				{
+				},
+			},
+			 
+			{
+				command = "rotate_ccw_45",
+				keycombos =  
+				{
+					 
+					{
+						combo = "LBracket",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "orbit",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Alt",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "save_camera_location_3",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+F3",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "save_camera_location_7",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+F7",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
 				},
 			},
 			 
@@ -10057,12 +10152,19 @@ profile =
 			},
 			 
 			{
-				command = "zoom_out",
+				command = "screen_pan_up",
+				keycombos =  
+				{
+				},
+			},
+			 
+			{
+				command = "save_camera_location_6",
 				keycombos =  
 				{
 					 
 					{
-						combo = "MouseWheelDown",
+						combo = "Control+F6",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -10072,13 +10174,6 @@ profile =
 						event = "Press",
 						repeatCount = -1,
 					},
-				},
-			},
-			 
-			{
-				command = "screen_pan_left",
-				keycombos =  
-				{
 				},
 			},
 		},
@@ -13541,56 +13636,37 @@ profile =
 		{
 			 
 			{
-				command = "hkgroup_focus9",
+				command = "hkgroup_set5",
 				keycombos =  
 				{
 					 
 					{
-						combo = "9",
-						event = "Press",
-						repeatCount = 1,
-					},
-					 
-					{
-						combo = "Numpad9",
-						event = "Press",
-						repeatCount = 1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_focus4",
-				keycombos =  
-				{
-					 
-					{
-						combo = "4",
-						event = "Press",
-						repeatCount = 1,
-					},
-					 
-					{
-						combo = "Numpad4",
-						event = "Press",
-						repeatCount = 1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_remove0",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Alt+0",
+						combo = "Control+5",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Control+Alt+Numpad0",
+						combo = "Control+Numpad5",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_select0",
+				keycombos =  
+				{
+					 
+					{
+						combo = "0",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Numpad0",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -13617,56 +13693,18 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_add9",
+				command = "hkgroup_focus7",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Shift+9",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Shift+Numpad9",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_select5",
-				keycombos =  
-				{
-					 
-					{
-						combo = "5",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Numpad5",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_focus5",
-				keycombos =  
-				{
-					 
-					{
-						combo = "5",
+						combo = "7",
 						event = "Press",
 						repeatCount = 1,
 					},
 					 
 					{
-						combo = "Numpad5",
+						combo = "Numpad7",
 						event = "Press",
 						repeatCount = 1,
 					},
@@ -13674,18 +13712,18 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_set2",
+				command = "hkgroup_set8",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+2",
+						combo = "Control+8",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Control+Numpad2",
+						combo = "Control+Numpad8",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -13693,37 +13731,113 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_focus2",
+				command = "hkgroup_set0",
 				keycombos =  
 				{
 					 
 					{
-						combo = "2",
+						combo = "Control+0",
 						event = "Press",
-						repeatCount = 1,
+						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Numpad2",
+						combo = "Control+Numpad0",
 						event = "Press",
-						repeatCount = 1,
+						repeatCount = -1,
 					},
 				},
 			},
 			 
 			{
-				command = "hkgroup_select3",
+				command = "hkgroup_select7",
+				keycombos =  
+				{
+					 
+					{
+						combo = "7",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Numpad7",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_remove9",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Alt+9",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Control+Alt+Numpad9",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_set9",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+9",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Control+Numpad9",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_focus3",
 				keycombos =  
 				{
 					 
 					{
 						combo = "3",
 						event = "Press",
-						repeatCount = -1,
+						repeatCount = 1,
 					},
 					 
 					{
 						combo = "Numpad3",
+						event = "Press",
+						repeatCount = 1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_select9",
+				keycombos =  
+				{
+					 
+					{
+						combo = "9",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Numpad9",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -13731,18 +13845,18 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_focus0",
+				command = "hkgroup_focus9",
 				keycombos =  
 				{
 					 
 					{
-						combo = "0",
+						combo = "9",
 						event = "Press",
 						repeatCount = 1,
 					},
 					 
 					{
-						combo = "Numpad0",
+						combo = "Numpad9",
 						event = "Press",
 						repeatCount = 1,
 					},
@@ -13769,18 +13883,18 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_remove9",
+				command = "hkgroup_select3",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+Alt+9",
+						combo = "3",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Control+Alt+Numpad9",
+						combo = "Numpad3",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -13788,18 +13902,18 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_remove3",
+				command = "hkgroup_select8",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+Alt+3",
+						combo = "8",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Control+Alt+Numpad3",
+						combo = "Numpad8",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -13807,58 +13921,134 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_focus6",
+				command = "hkgroup_focus2",
+				keycombos =  
+				{
+					 
+					{
+						combo = "2",
+						event = "Press",
+						repeatCount = 1,
+					},
+					 
+					{
+						combo = "Numpad2",
+						event = "Press",
+						repeatCount = 1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_select4",
+				keycombos =  
+				{
+					 
+					{
+						combo = "4",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Numpad4",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_set6",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+6",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Control+Numpad6",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_add9",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+9",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Shift+Numpad9",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_remove8",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Alt+8",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Control+Alt+Numpad8",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_select6",
 				keycombos =  
 				{
 					 
 					{
 						combo = "6",
 						event = "Press",
-						repeatCount = 1,
+						repeatCount = -1,
 					},
 					 
 					{
 						combo = "Numpad6",
 						event = "Press",
-						repeatCount = 1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_select0",
-				keycombos =  
-				{
-					 
-					{
-						combo = "0",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Numpad0",
-						event = "Press",
 						repeatCount = -1,
 					},
 				},
 			},
 			 
 			{
-				command = "hkgroup_focus7",
+				command = "hkgroup_select5",
 				keycombos =  
 				{
 					 
 					{
-						combo = "7",
+						combo = "5",
 						event = "Press",
-						repeatCount = 1,
+						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Numpad7",
+						combo = "Numpad5",
 						event = "Press",
-						repeatCount = 1,
+						repeatCount = -1,
 					},
 				},
 			},
@@ -13902,158 +14092,6 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_focus1",
-				keycombos =  
-				{
-					 
-					{
-						combo = "1",
-						event = "Press",
-						repeatCount = 1,
-					},
-					 
-					{
-						combo = "Numpad1",
-						event = "Press",
-						repeatCount = 1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_remove8",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Alt+8",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Control+Alt+Numpad8",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_select2",
-				keycombos =  
-				{
-					 
-					{
-						combo = "2",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Numpad2",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_remove5",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Alt+5",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Control+Alt+Numpad5",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_add3",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+3",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Shift+Numpad3",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_select9",
-				keycombos =  
-				{
-					 
-					{
-						combo = "9",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Numpad9",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_add7",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+7",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Shift+Numpad7",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_select1",
-				keycombos =  
-				{
-					 
-					{
-						combo = "1",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Numpad1",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
 				command = "hkgroup_remove1",
 				keycombos =  
 				{
@@ -14073,37 +14111,18 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_remove_all",
+				command = "hkgroup_remove4",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+Backspace",
+						combo = "Control+Alt+4",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_set0",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+0",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Control+Numpad0",
+						combo = "Control+Alt+Numpad4",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -14130,18 +14149,18 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_select6",
+				command = "hkgroup_remove3",
 				keycombos =  
 				{
 					 
 					{
-						combo = "6",
+						combo = "Control+Alt+3",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Numpad6",
+						combo = "Control+Alt+Numpad3",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -14168,18 +14187,18 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_add0",
+				command = "hkgroup_remove5",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Shift+0",
+						combo = "Control+Alt+5",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Shift+Numpad0",
+						combo = "Control+Alt+Numpad5",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -14187,151 +14206,37 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_set7",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+7",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Control+Numpad7",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_select4",
+				command = "hkgroup_focus4",
 				keycombos =  
 				{
 					 
 					{
 						combo = "4",
 						event = "Press",
-						repeatCount = -1,
+						repeatCount = 1,
 					},
 					 
 					{
 						combo = "Numpad4",
 						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_set5",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+5",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Control+Numpad5",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_add2",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+2",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Shift+Numpad2",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_add1",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+1",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Shift+Numpad1",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_select7",
-				keycombos =  
-				{
-					 
-					{
-						combo = "7",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Numpad7",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_focus3",
-				keycombos =  
-				{
-					 
-					{
-						combo = "3",
-						event = "Press",
-						repeatCount = 1,
-					},
-					 
-					{
-						combo = "Numpad3",
-						event = "Press",
 						repeatCount = 1,
 					},
 				},
 			},
 			 
 			{
-				command = "hkgroup_remove4",
+				command = "hkgroup_add4",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+Alt+4",
+						combo = "Shift+4",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Control+Alt+Numpad4",
+						combo = "Shift+Numpad4",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -14339,132 +14244,18 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_set9",
+				command = "hkgroup_remove_all",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+9",
+						combo = "Control+Backspace",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Control+Numpad9",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_add6",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+6",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Shift+Numpad6",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_add5",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+5",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Shift+Numpad5",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_set8",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+8",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Control+Numpad8",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_set3",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+3",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Control+Numpad3",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_select8",
-				keycombos =  
-				{
-					 
-					{
-						combo = "8",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Numpad8",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "hkgroup_set6",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+6",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Control+Numpad6",
+						combo = "",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -14491,26 +14282,375 @@ profile =
 			},
 			 
 			{
-				command = "hkgroup_add4",
+				command = "hkgroup_add6",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Shift+4",
+						combo = "Shift+6",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Shift+Numpad4",
+						combo = "Shift+Numpad6",
 						event = "Press",
 						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_add7",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+7",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Shift+Numpad7",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_select2",
+				keycombos =  
+				{
+					 
+					{
+						combo = "2",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Numpad2",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_add5",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+5",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Shift+Numpad5",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_add1",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+1",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Shift+Numpad1",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_remove0",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Alt+0",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Control+Alt+Numpad0",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_add3",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+3",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Shift+Numpad3",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_add2",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+2",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Shift+Numpad2",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_add0",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+0",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Shift+Numpad0",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_set3",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+3",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Control+Numpad3",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_set7",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+7",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Control+Numpad7",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_set2",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+2",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Control+Numpad2",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_focus5",
+				keycombos =  
+				{
+					 
+					{
+						combo = "5",
+						event = "Press",
+						repeatCount = 1,
+					},
+					 
+					{
+						combo = "Numpad5",
+						event = "Press",
+						repeatCount = 1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_focus6",
+				keycombos =  
+				{
+					 
+					{
+						combo = "6",
+						event = "Press",
+						repeatCount = 1,
+					},
+					 
+					{
+						combo = "Numpad6",
+						event = "Press",
+						repeatCount = 1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_select1",
+				keycombos =  
+				{
+					 
+					{
+						combo = "1",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Numpad1",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_focus1",
+				keycombos =  
+				{
+					 
+					{
+						combo = "1",
+						event = "Press",
+						repeatCount = 1,
+					},
+					 
+					{
+						combo = "Numpad1",
+						event = "Press",
+						repeatCount = 1,
+					},
+				},
+			},
+			 
+			{
+				command = "hkgroup_focus0",
+				keycombos =  
+				{
+					 
+					{
+						combo = "0",
+						event = "Press",
+						repeatCount = 1,
+					},
+					 
+					{
+						combo = "Numpad0",
+						event = "Press",
+						repeatCount = 1,
 					},
 				},
 			},
 		},
 		hud_dynamic_classic =  
 		{
+			 
+			{
+				command = "tab",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Tab",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "enter",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Enter",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "toggle_self_mute",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Grave",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "Equal",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
 			 
 			{
 				command = "down",
@@ -14564,6 +14704,25 @@ profile =
 			},
 			 
 			{
+				command = "ping_attack",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+R",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
 				command = "ping_defend",
 				keycombos =  
 				{
@@ -14576,57 +14735,6 @@ profile =
 					 
 					{
 						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "push_to_talk",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Grave",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "enter",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Enter",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "text_to_speech_chat",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Enter",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "Minus",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -14653,63 +14761,18 @@ profile =
 			},
 			 
 			{
-				command = "up",
+				command = "text_to_speech_chat",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Up",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "tab",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Tab",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "toggle_self_mute",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Grave",
+						combo = "Control+Enter",
 						event = "Press",
 						repeatCount = -1,
 					},
 					 
 					{
-						combo = "Equal",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "ping_attack",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+R",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
+						combo = "Minus",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -14734,47 +14797,41 @@ profile =
 					},
 				},
 			},
+			 
+			{
+				command = "up",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Up",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "push_to_talk",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Grave",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
 		},
 		hud_game =  
 		{
-			 
-			{
-				command = "toggle_diplomacy_panel",
-				keycombos =  
-				{
-					 
-					{
-						combo = "F6",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "toggle_time_display",
-				keycombos =  
-				{
-					 
-					{
-						combo = "F11",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
 			 
 			{
 				command = "global_ability_5",
@@ -14815,69 +14872,12 @@ profile =
 			},
 			 
 			{
-				command = "global_ability_6",
+				command = "toggle_time_display",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Alt+6",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "focus_event_cue",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Space",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "quick_load",
-				keycombos =  
-				{
-					 
-					{
-						combo = "F9",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "access_secondary_ui_panel",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Y",
+						combo = "F11",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -14910,126 +14910,12 @@ profile =
 			},
 			 
 			{
-				command = "cancel_last_production_item",
+				command = "focus_event_cue",
 				keycombos =  
 				{
 					 
 					{
-						combo = "B",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "global_ability_2",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Alt+2",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "exit_current_inline_menu",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "cycle_global_queue",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Shift+Q",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "global_ability_3",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Alt+3",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "toggle_team_colours",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Insert",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "minimap_cycle_zoom_level",
-				keycombos =  
-				{
-					 
-					{
-						combo = "M",
+						combo = "Space",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -15062,25 +14948,6 @@ profile =
 			},
 			 
 			{
-				command = "pause_menu",
-				keycombos =  
-				{
-					 
-					{
-						combo = "F10",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
 				command = "cancel_all_production_items",
 				keycombos =  
 				{
@@ -15100,12 +14967,240 @@ profile =
 			},
 			 
 			{
+				command = "quick_load",
+				keycombos =  
+				{
+					 
+					{
+						combo = "F9",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pause_menu",
+				keycombos =  
+				{
+					 
+					{
+						combo = "F10",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "global_ability_3",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Alt+3",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "exit_current_inline_menu",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "global_ability_6",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Alt+6",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "toggle_team_colours",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Insert",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "access_secondary_ui_panel",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Y",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "cycle_global_queue",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Shift+Q",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "global_ability_2",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Alt+2",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "toggle_diplomacy_panel",
+				keycombos =  
+				{
+					 
+					{
+						combo = "F6",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
 				command = "quick_save",
 				keycombos =  
 				{
 					 
 					{
 						combo = "F8",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "cancel_last_production_item",
+				keycombos =  
+				{
+					 
+					{
+						combo = "B",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "minimap_cycle_zoom_level",
+				keycombos =  
+				{
+					 
+					{
+						combo = "M",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -15151,50 +15246,12 @@ profile =
 		{
 			 
 			{
-				command = "toggle_focus_statistics",
+				command = "slower",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Shift+Alt+S",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "toggle_fow",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+F",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "toggle_ui",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+U",
+						combo = "Minus",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -15227,63 +15284,6 @@ profile =
 			},
 			 
 			{
-				command = "next_player",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+RBracket",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "flip_sides",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Shift+Alt+F",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "previous_player",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+LBracket",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
 				command = "toggle_camera",
 				keycombos =  
 				{
@@ -15303,12 +15303,31 @@ profile =
 			},
 			 
 			{
-				command = "select_player_1",
+				command = "next_player",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Shift+Alt+1",
+						combo = "Control+RBracket",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "toggle_focus_statistics",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+Alt+S",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -15341,12 +15360,88 @@ profile =
 			},
 			 
 			{
-				command = "slower",
+				command = "previous_player",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Minus",
+						combo = "Control+LBracket",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "toggle_ui",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+U",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "flip_sides",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+Alt+F",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "select_player_1",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Shift+Alt+1",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "toggle_fow",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+F",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -15363,286 +15458,7 @@ profile =
 		{
 			 
 			{
-				command = "pick_next_food_gatherer",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Shift+F",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_idle_military",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Comma",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_scout",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Slash",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_gold_gatherer",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Shift+G",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_idle_worker",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Period",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_idle_scout",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_villagers",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Shift+V",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_of_current_types",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_trade_ships",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_siege_on_screen",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "select_all",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Shift+A",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_idle_villagers_in_radius",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Shift+Alt+V",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "escape",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Escape",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_wood_gatherer",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Shift+W",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_stone_gatherer",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Shift+S",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_archers",
+				command = "pick_all_cavalry_on_screen",
 				keycombos =  
 				{
 					 
@@ -15680,7 +15496,115 @@ profile =
 			},
 			 
 			{
-				command = "pick_all_siege",
+				command = "pick_all_trade_ships",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_villagers",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Shift+V",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "escape",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Escape",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_stone_gatherer",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Shift+S",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_wood_gatherer",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Shift+W",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "select_all",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Shift+A",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_idle_scout",
 				keycombos =  
 				{
 					 
@@ -15718,88 +15642,12 @@ profile =
 			},
 			 
 			{
-				command = "pick_all_military",
+				command = "subselect_next",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+Shift+C",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_workers_on_screen",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_idle_naval_military",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_infantry",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_shinobi",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
+						combo = "Tab",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -15832,45 +15680,7 @@ profile =
 			},
 			 
 			{
-				command = "subselect_previous",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Tab",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_monk",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Apostrophe",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_cavalry_on_screen",
+				command = "pick_all_yatai",
 				keycombos =  
 				{
 					 
@@ -15889,7 +15699,45 @@ profile =
 			},
 			 
 			{
-				command = "pick_all_military_on_screen",
+				command = "pick_all_idle_villagers_in_radius",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Shift+Alt+V",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_idle_military",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Comma",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_of_current_types",
 				keycombos =  
 				{
 					 
@@ -15908,12 +15756,12 @@ profile =
 			},
 			 
 			{
-				command = "pick_all_monks",
+				command = "pick_next_food_gatherer",
 				keycombos =  
 				{
 					 
 					{
-						combo = "",
+						combo = "Control+Shift+F",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -15927,183 +15775,12 @@ profile =
 			},
 			 
 			{
-				command = "pick_all_archers_on_screen",
+				command = "pick_all_idle_villagers",
 				keycombos =  
 				{
 					 
 					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_officials",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_idle_military",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Comma",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_hero",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_naval_military",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+Shift+D",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_cavalry",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_infantry_on_screen",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "focus_selected",
-				keycombos =  
-				{
-					 
-					{
-						combo = "F5",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_idle_naval_military",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "subselect_next",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Tab",
+						combo = "Control+Period",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -16155,12 +15832,240 @@ profile =
 			},
 			 
 			{
-				command = "pick_all_idle_villagers",
+				command = "pick_all_officials",
 				keycombos =  
 				{
 					 
 					{
-						combo = "Control+Period",
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_siege_on_screen",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_military_on_screen",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_gold_gatherer",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Shift+G",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_worker_elephant",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_hero",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_monks",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_infantry",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_archers",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_yatai",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_siege",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_monk",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Apostrophe",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_naval_military",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Shift+D",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -16191,12 +16096,259 @@ profile =
 					},
 				},
 			},
+			 
+			{
+				command = "pick_next_scout",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Slash",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_archers_on_screen",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "focus_selected",
+				keycombos =  
+				{
+					 
+					{
+						combo = "F5",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_workers_on_screen",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_infantry_on_screen",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_idle_worker",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Period",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_idle_naval_military",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_idle_naval_military",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_idle_military",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Comma",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_military",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Shift+C",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "subselect_previous",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+Tab",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_cavalry",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_shinobi",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
 		},
 		hud_unit_control =  
 		{
 			 
 			{
-				command = "pick_all_monastery",
+				command = "pick_next_university",
 				keycombos =  
 				{
 					 
@@ -16215,501 +16367,7 @@ profile =
 			},
 			 
 			{
-				command = "pick_next_barracks",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_mining_camp",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_pasture",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_manor",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_keep",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_merc_house",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_packed_building",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_archery_range",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_village",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_military_school",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_university",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_ovoo",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_stables",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_granary",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_monastery",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_pasture",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_stables",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_mill",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_mill",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_lumber_yard",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_ovoo",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_lumber_yard",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_siege_workshop",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_siege_workshop",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_military_buildings",
-				keycombos =  
-				{
-					 
-					{
-						combo = "F1",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_military_school",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_pagoda",
+				command = "pick_all_keep",
 				keycombos =  
 				{
 					 
@@ -16747,83 +16405,7 @@ profile =
 			},
 			 
 			{
-				command = "pick_all_cistern",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_packed_building",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_blacksmith",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_stone_wall_tower",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_manor",
+				command = "pick_all_daimyo_estates",
 				keycombos =  
 				{
 					 
@@ -16861,292 +16443,7 @@ profile =
 			},
 			 
 			{
-				command = "pick_all_special_buildings",
-				keycombos =  
-				{
-					 
-					{
-						combo = "F4",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_outpost",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_economy_buildings",
-				keycombos =  
-				{
-					 
-					{
-						combo = "F2",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_village",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_dock",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_ger",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_ger",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_pagoda",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_university",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_stone_wall_tower",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_archery_range",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_all_barracks",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_landmark",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
 				command = "select_all_town_centers",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_granary",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_merc_house",
 				keycombos =  
 				{
 					 
@@ -17184,7 +16481,425 @@ profile =
 			},
 			 
 			{
-				command = "pick_next_outpost",
+				command = "pick_next_military_school",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_granary",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_manor",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_merc_house",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "select_focus_capital",
+				keycombos =  
+				{
+					 
+					{
+						combo = "Control+H",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_monastery",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_mill",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_siege_workshop",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_cistern",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_barracks",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_ger",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_barracks",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_village",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_archery_range",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_pagoda",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_town",
+				keycombos =  
+				{
+					 
+					{
+						combo = "H",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_military_buildings",
+				keycombos =  
+				{
+					 
+					{
+						combo = "F1",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_daimyo_estate",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_village",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_stables",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_packed_building",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_stone_wall_tower",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_lumber_yard",
 				keycombos =  
 				{
 					 
@@ -17222,7 +16937,539 @@ profile =
 			},
 			 
 			{
-				command = "pick_all_keep",
+				command = "pick_next_packed_building",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_pasture",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_manor",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_pagoda",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_archery_range",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_ger",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_dock",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_mining_camp",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_economy_buildings",
+				keycombos =  
+				{
+					 
+					{
+						combo = "F2",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_pasture",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_mill",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_university",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_blacksmith",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_monastery",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_special_buildings",
+				keycombos =  
+				{
+					 
+					{
+						combo = "F4",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_siege_workshop",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_keep",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_outpost",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_merc_house",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_stables",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_granary",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_lumber_yard",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_ovoo",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_ovoo",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_stone_wall_tower",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_outpost",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_all_military_school",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_mining_camp",
+				keycombos =  
+				{
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "pick_next_landmark",
 				keycombos =  
 				{
 					 
@@ -17266,63 +17513,6 @@ profile =
 					 
 					{
 						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "select_focus_capital",
-				keycombos =  
-				{
-					 
-					{
-						combo = "Control+H",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_mining_camp",
-				keycombos =  
-				{
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-					 
-					{
-						combo = "",
-						event = "Press",
-						repeatCount = -1,
-					},
-				},
-			},
-			 
-			{
-				command = "pick_next_town",
-				keycombos =  
-				{
-					 
-					{
-						combo = "H",
 						event = "Press",
 						repeatCount = -1,
 					},
@@ -23119,6 +23309,25 @@ profile =
 					 
 					{
 						combo = "X",
+						event = "Press",
+						repeatCount = -1,
+					},
+					 
+					{
+						combo = "",
+						event = "Press",
+						repeatCount = -1,
+					},
+				},
+			},
+			 
+			{
+				command = "train_worker_elephant_sul_ha_tug",
+				keycombos =  
+				{
+					 
+					{
+						combo = "E",
 						event = "Press",
 						repeatCount = -1,
 					},
