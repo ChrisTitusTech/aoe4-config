@@ -14,11 +14,11 @@ Select All Ranged Ctrl + V
 Select All Cavalry Ctrl + C
 Select All Siege Ctrl + S
 
-Select All Barracks Shift + X
-Select All Archery Ranges Shift + V
-Select All Stables Shift + C
-Select All Siege Workshops Shift + S
-Select All Monastery Shift + M
+Select All Barracks Shift + X or 6
+Select All Archery Ranges Shift + V or 7
+Select All Stables Shift + C or 8
+Select All Siege Workshops Shift + S or 9
+Select All Monastery Shift + M or 0
 Select All Markets M
 Select All Manors Ctrl + M
 
