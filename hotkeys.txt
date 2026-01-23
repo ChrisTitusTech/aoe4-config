@@ -1,0 +1,39 @@
+Select Idle Vills Alt + `
+Cycle Food Vills Shift + F
+Cycle Wood Vills Shift + W
+Cycle Gold Vills Shift + G
+Cycle Monks Shift + `
+Select All Monks Ctrl + `
+Select All Military Ctrl + Alt + Z
+Select All Military on Screen Ctrl + Shift + Z
+Select Idle Military Alt + Z
+Cycle Scouts 5
+
+Select All Infantry Ctrl + X
+Select All Ranged Ctrl + V
+Select All Cavalry Ctrl + C
+Select All Siege Ctrl + S
+
+Select All Barracks Shift + X
+Select All Archery Ranges Shift + V
+Select All Stables Shift + C
+Select All Siege Workshops Shift + S
+Select All Monastery Shift + M
+Select All Markets M
+Select All Manors Ctrl + M
+
+Select All Military Buildings F1
+Select All Economic Buildings F2
+Select All Technology Buildings F3
+
+Note: Clears Control Groups on No Selection
+Set Control Group 1 Alt + 1
+Set Control Group 2 Alt + 2
+Set Control Group 3 Alt + 3
+Set Control Group 4 Alt + 4
+Set Control Group 5 Alt + 5
+Add to Control Group 1 Shift + 1
+Add to Control Group 2 Shift + 2
+Add to Control Group 3 Shift + 3
+Add to Control Group 4 Shift + 4
+Add to Control Group 5 Shift + 5
