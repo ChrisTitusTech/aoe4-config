@@ -1,4 +1,5 @@
-Select Idle Vills Alt + `
+Cycle Idle Vills `
+Select All Idle Vills Alt + `
 Cycle Food Vills Shift + F
 Cycle Wood Vills Shift + W
 Cycle Gold Vills Shift + G
